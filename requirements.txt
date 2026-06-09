@@ -1,5 +1,5 @@
 line-bot-sdk>=3.0.0
-yfinance
-requests
-pandas
-
+Flask>=3.0.0
+requests>=2.31.0
+yfinance>=0.2.38
+Werkzeug>=3.0.1
